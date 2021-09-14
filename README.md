@@ -11,7 +11,7 @@ you can also acces my [1st](https://github.com/svvlcrkt/Simple-Color-Flipper), [
 *In this project, I also used moment.js for months and weekdays.* 
 
 ## *Online demo:*
-https://countdown-example.netlify.app/
+*https://countdown-example.netlify.app/*
 
 ## *Used Technologies*
 *HTML, CSS, JavaScript, jQuery, Moment.js*
