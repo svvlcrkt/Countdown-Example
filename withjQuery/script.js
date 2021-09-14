@@ -1,27 +1,8 @@
-const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
-];
+const months = moment.months();
+// console.log(months);
 
-const weekdays = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-];
+const weekdays = moment.weekdays();
+// console.log(weekdays);
 
 const giveaway = $('.giveaway');
 const deadline = $('.deadline');
